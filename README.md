@@ -1,1 +1,15 @@
-#TEMP README
+
+
+
+
+
+
+
+
+
+
+
+
+## ← lab_instructions.txt
+
+Start there. 
