@@ -1,0 +1,10 @@
+Document outline for structure.htm
+
+1. Comp 484
+	1. Structuring Pages
+	2. Untitled Section
+	3. Conveying meaning through structure
+		1. Sectioning elements
+		2. Document outlines
+			1. W3C Warning
+		3. WAI-ARIA Roles
